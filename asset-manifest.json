@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/arcanatatics-optimizer/static/css/main.1635e87c.chunk.css",
-    "main.js": "/arcanatatics-optimizer/static/js/main.46b35551.chunk.js",
-    "main.js.map": "/arcanatatics-optimizer/static/js/main.46b35551.chunk.js.map",
+    "main.js": "/arcanatatics-optimizer/static/js/main.04f2ba07.chunk.js",
+    "main.js.map": "/arcanatatics-optimizer/static/js/main.04f2ba07.chunk.js.map",
     "runtime-main.js": "/arcanatatics-optimizer/static/js/runtime-main.e813a21d.js",
     "runtime-main.js.map": "/arcanatatics-optimizer/static/js/runtime-main.e813a21d.js.map",
     "static/js/2.054c4401.chunk.js": "/arcanatatics-optimizer/static/js/2.054c4401.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e813a21d.js",
     "static/js/2.054c4401.chunk.js",
     "static/css/main.1635e87c.chunk.css",
-    "static/js/main.46b35551.chunk.js"
+    "static/js/main.04f2ba07.chunk.js"
   ]
 }
